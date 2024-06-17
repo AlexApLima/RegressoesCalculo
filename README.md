@@ -1,2 +1,7 @@
-# RegressoesCalculo
-O repositório possui: Regressão Polinomial e MonteCarlo, todos feitos utilizando Python.
+# AtividadesCálculo
+O repositório possui em Python: 
+* Regressão Polinomial 
+* MonteCarlo
+
+
+(não tankei a logística)
